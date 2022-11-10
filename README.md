@@ -2,6 +2,13 @@
 
 This project was generated with Angular version 14.2.9.
 
-## Running unit tests
+## Project Running
 
-Run `ng test` to execute the unit tests.
+1. Install node modules
+   ```sh
+   npm install
+   ```
+2. Running
+   ```sh
+   npm start
+   ```

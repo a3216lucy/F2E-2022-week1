@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./layout.component.scss'],
 })
 export class LayoutComponent {
-  title = '2022-week1';
+  title = 'The F2E I';
 }

@@ -1,0 +1,79 @@
+@charset "utf-8";
+
+@font-face {
+	font-family: 'Cubic';
+	src: url(~assets/fonts/Cubic.woff) format('woff'),
+}
+
+@font-face {
+	font-family: '8bitOperatorPlus';
+	font-style: bold;
+	src: url(~assets/fonts/8bitOperatorPlus-Bold.ttf) format('ttf'),
+}
+
+@font-face {
+	font-family: '8bitOperatorPlus';
+	font-style: normal;
+	src: url(~assets/fonts/8bitOperatorPlus8-Regular.ttf) format('ttf'),
+}
+
+@font-face {
+	font-family: '8bitOperatorPlus8';
+	font-style: bold;
+	src: url(~assets/fonts/8bitOperatorPlus8-Bold.ttf) format('ttf'),
+}
+
+@font-face {
+	font-family: '8bitOperatorPlus8';
+	font-style: normal;
+	src: url(~assets/fonts/8bitOperatorPlus-Regular.ttf) format('ttf'),
+}
+@font-face {
+	font-family: '8bitOperatorPlusSC';
+	font-style: bold;
+	src: url(~assets/fonts/8bitOperatorPlusSC-Bold.ttf) format('ttf'),
+}
+@font-face {
+	font-family: '8bitOperatorPlusSC';
+	font-style: normal;
+	src: url(~assets/fonts/8bitOperatorPlusSC-Regular.ttf) format('ttf'),
+}
+
+
+* {
+  font-family: 'Cubic', '8bitOperatorPlus8', Roboto, Helvetica, sans-serif;
+  font-size: 14px;
+  color: #4cd30c;
+  background-color: #000000;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 8px 0;
+}
+
+p {
+  margin: 0;
+}
+
+.h1 {
+  width: 650px;
+  height: 200px;
+  font-family: 'Cubic';
+  font-weight: 700;
+  font-size: 144px;
+  line-height: 200px;
+  color: #4cd30c;
+  left: 15.04px;
+  top: 0px;
+  position: absolute;
+  text-shadow: -5px 5px #E8E8E8;
+}
+

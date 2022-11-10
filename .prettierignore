@@ -1,0 +1,22 @@
+# IDE/Editor
+.vscode
+.idea
+
+# Package Manager
+package-lock.json
+
+# Angular-related
+/dist
+/coverage
+**/assets/**/*
+
+# eslint
+.eslintrc.json
+
+# markdown
+CHANGELOG.md
+
+# git submodules
+/projects
+
+/src/assets/js/pdfjs
